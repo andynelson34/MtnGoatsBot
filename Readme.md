@@ -1,0 +1,1 @@
+This is a simple Twitter bot that posts randomly selected lyrics from folk-rock band The Mountain Goats. You can follow it at @mtngoatsbot!
